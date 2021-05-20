@@ -105,27 +105,27 @@ class Profile extends React.Component {
                         </Button>
                       </div>
                     </Col>
-                    {/* <Col className="order-lg-1" lg="4">
+                    <Col className="order-lg-1" lg="4">
                       <div className="card-profile-stats d-flex justify-content-center">
                         <div>
-                          <span className="heading">22</span>
-                          <span className="description">Friends</span>
+                          <span className="heading">2</span>
+                          <span className="description">Projects</span>
                         </div>
                         <div>
-                          <span className="heading">10</span>
-                          <span className="description">Photos</span>
+                          <span className="heading">2</span>
+                          <span className="description">Teams</span>
                         </div>
                         <div>
-                          <span className="heading">89</span>
-                          <span className="description">Comments</span>
+                          <span className="heading">25</span>
+                          <span className="description">Age</span>
                         </div>
                       </div>
-                    </Col> */}
+                    </Col>
                   </Row>
                   <div className="text-center mt-5">
                     <h3>
                       Saeed Awwad{" "}
-                      <span className="font-weight-light">, 27</span>
+                      <span className="font-weight-light"></span>
                     </h3>
                     <div className="h6 font-weight-300">
                       <i className="ni location_pin mr-2" />
